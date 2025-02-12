@@ -1,0 +1,7 @@
+./objects/lcd.o: lcd.c lcd.h \
+  C:\Users\mmadh\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h \
+  RTE\_Target_1\RTE_Components.h \
+  C:\Users\mmadh\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm3.h \
+  C:\Users\mmadh\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h \
+  delay.h Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h \
+  Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h

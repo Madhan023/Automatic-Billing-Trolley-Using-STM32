@@ -1,0 +1,106 @@
+Dependencies for Project 'project', Target 'Target_1': (DO NOT MODIFY !)
+CompilerVersion: 6220000::V6.22::ARMCLANG
+F (.\stm32f10x_gpio.c)(0x676A3622)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./Libraries/STM32F10x_StdPeriph_Driver/inc-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/mmadh/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/mmadh/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="541" -DSTM32F10X_MD -D_RTE_-o ./objects/stm32f10x_gpio.o -MMD)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x6769A582)
+I (C:\Users\mmadh\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x676697D2)
+I (RTE\_Target_1\RTE_Components.h)(0x676E1B4F)
+I (C:\Users\mmadh\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm3.h)(0x664BFBB0)
+I (C:\Users\mmadh\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x676697D2)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_conf.h)(0x676A2199)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x6769A581)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x6769A581)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x6769A581)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x6769A581)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x6769A581)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x6769A581)
+F (.\stm32f10x_rcc.c)(0x676A3622)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./Libraries/STM32F10x_StdPeriph_Driver/inc-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/mmadh/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/mmadh/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="541" -DSTM32F10X_MD -D_RTE_-o ./objects/stm32f10x_rcc.o -MMD)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x6769A582)
+I (C:\Users\mmadh\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x676697D2)
+I (RTE\_Target_1\RTE_Components.h)(0x676E1B4F)
+I (C:\Users\mmadh\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm3.h)(0x664BFBB0)
+I (C:\Users\mmadh\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x676697D2)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_conf.h)(0x676A2199)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x6769A581)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x6769A581)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x6769A581)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x6769A581)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x6769A581)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x6769A581)
+F (.\project.c)(0x67701C94)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./Libraries/STM32F10x_StdPeriph_Driver/inc-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/mmadh/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/mmadh/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="541" -DSTM32F10X_MD -D_RTE_-o ./objects/project.o -MMD)
+I (C:\Users\mmadh\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x676697D2)
+I (RTE\_Target_1\RTE_Components.h)(0x676E1B4F)
+I (C:\Users\mmadh\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm3.h)(0x664BFBB0)
+I (C:\Users\mmadh\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x676697D2)
+I (delay.h)(0x676E1B08)
+I (spi1.h)(0x676E1AFF)
+I (MFRC522.h)(0x676E1B14)
+I (lcd.h)(0x676E1B1A)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x6769A582)
+F (.\MFRC522.c)(0x676E1C3F)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./Libraries/STM32F10x_StdPeriph_Driver/inc-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/mmadh/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/mmadh/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="541" -DSTM32F10X_MD -D_RTE_-o ./objects/mfrc522.o -MMD)
+I (C:\Users\mmadh\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x676697D2)
+I (RTE\_Target_1\RTE_Components.h)(0x676E1B4F)
+I (C:\Users\mmadh\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm3.h)(0x664BFBB0)
+I (C:\Users\mmadh\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x676697D2)
+I (spi1.h)(0x676E1AFF)
+I (MFRC522.h)(0x676E1B14)
+F (.\spi1.c)(0x676E1CFE)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./Libraries/STM32F10x_StdPeriph_Driver/inc-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/mmadh/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/mmadh/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="541" -DSTM32F10X_MD -D_RTE_-o ./objects/spi1.o -MMD)
+I (C:\Users\mmadh\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x676697D2)
+I (RTE\_Target_1\RTE_Components.h)(0x676E1B4F)
+I (C:\Users\mmadh\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm3.h)(0x664BFBB0)
+I (C:\Users\mmadh\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x676697D2)
+I (spi1.h)(0x676E1AFF)
+F (.\delay.c)(0x676E1D74)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./Libraries/STM32F10x_StdPeriph_Driver/inc-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/mmadh/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/mmadh/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="541" -DSTM32F10X_MD -D_RTE_-o ./objects/delay.o -MMD)
+I (C:\Users\mmadh\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x676697D2)
+I (RTE\_Target_1\RTE_Components.h)(0x676E1B4F)
+I (C:\Users\mmadh\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm3.h)(0x664BFBB0)
+I (C:\Users\mmadh\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x676697D2)
+I (delay.h)(0x676E1B08)
+F (.\lcd.c)(0x676E1C3F)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./Libraries/STM32F10x_StdPeriph_Driver/inc-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/mmadh/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/mmadh/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="541" -DSTM32F10X_MD -D_RTE_-o ./objects/lcd.o -MMD)
+I (lcd.h)(0x676E1B1A)
+I (C:\Users\mmadh\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x676697D2)
+I (RTE\_Target_1\RTE_Components.h)(0x676E1B4F)
+I (C:\Users\mmadh\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm3.h)(0x664BFBB0)
+I (C:\Users\mmadh\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x676697D2)
+I (delay.h)(0x676E1B08)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x6769A582)
+I (Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x6769A582)
+F (RTE/Device/STM32F103C8/RTE_Device.h)(0x676697D3)()
+F (RTE/Device/STM32F103C8/startup_stm32f10x_md.s)(0x676697D2)(--target=arm-arm-none-eabi -mcpu=cortex-m3 -masm=auto  -Wa,armasm,--diag_suppress=A1950W -c-gdwarf-4 -Wa,armasm,--pd,"__EVAL SETA 1"-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/mmadh/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/mmadh/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-Wa,armasm,--pd,"__UVISION_VERSION SETA 541" -Wa,armasm,--pd,"STM32F10X_MD SETA 1" -Wa,armasm,--pd,"_RTE_ SETA 1"-o ./objects/startup_stm32f10x_md.o)
+F (RTE/Device/STM32F103C8/system_stm32f10x.c)(0x676697D2)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./Libraries/STM32F10x_StdPeriph_Driver/inc-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/mmadh/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/mmadh/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="541" -DSTM32F10X_MD -D_RTE_-o ./objects/system_stm32f10x.o -MMD)
+I (C:\Users\mmadh\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x676697D2)
+I (RTE\_Target_1\RTE_Components.h)(0x676E1B4F)
+I (C:\Users\mmadh\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm3.h)(0x664BFBB0)
+I (C:\Users\mmadh\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x676697D2)
