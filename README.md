@@ -35,3 +35,5 @@ LED indicators provide visual feedback indicating whether an item has been added
 User Interaction:
 
 The LCD display guides the user through the process, showing messages such as "Welcome to Super Market", "Add your item", "Item Added", "Item Removed", and the "Total Amount".
+
+
